@@ -1,6 +1,6 @@
 package com.lunasa.gmail.tests;
 
-import com.lunasa.pages.test.*;
+import com.lunasa.pages.PageFactory.*;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
