@@ -1,4 +1,4 @@
-package com.lunasa.pages.PageFactory;
+package com.lunasa.pages.PageObject;
 
 import org.openqa.selenium.By;
 

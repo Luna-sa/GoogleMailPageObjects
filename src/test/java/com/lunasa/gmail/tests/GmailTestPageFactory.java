@@ -1,10 +1,11 @@
-package com.lunasa.pages.PageFactory;
+package com.lunasa.gmail.tests;
 
+import com.lunasa.pages.test.*;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class GmailTest {
+public class GmailTestPageFactory {
 
 	@BeforeClass
 	public void setUp() {
